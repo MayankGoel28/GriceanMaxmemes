@@ -1,2 +1,2 @@
 # GriceanMaxmemes
-GriceanMaxmemes submission repo, only merger to this repo after work on your personal team repo (if you have one)
+Confession Generator
