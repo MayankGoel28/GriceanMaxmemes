@@ -19,7 +19,7 @@ For one final layer of checking, we pass the database through a python script, a
 
 ### Approach 2
 
-We have used GPT-2 by openai for initializing the new neural network. We now use our dataset for IIIT confessions to make the GPT-2 model adapt to our dataset. We then follow the same approach as above.
+We used a pre-trained language model by OpenAI, specifically the GPT-2 model for a transfer learning approach on our finetuned dataset for better adaptability and accurate word embeddings. Following this procedure, we can proceed with the previously mentioned LTSM approach.
 
 
 ## Website
