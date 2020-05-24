@@ -27,3 +27,4 @@ This software generates a sarcastic / humurous confession which is often seen in
 
 * For scraping from facebook confessions group : https://github.com/Uplyft-Map/fb-scraper
 * For the Neural Network: https://www.tensorflow.org/tutorials/text/text_generation
+* For GPT-2: https://openai.com/blog/better-language-models/
