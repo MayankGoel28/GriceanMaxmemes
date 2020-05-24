@@ -1,6 +1,6 @@
 # Confessions Generator
 
-This software generates a sarcastic / humurous / mostly weird looking confession which is often seen in confession pages of undergraduate colleges. It is based on some parameters as requested by the user.
+This software generates a sarcastic / humurous confession which is often seen in confession pages of undergraduate colleges. It is based on some parameters as requested by the user.
 
 ## How it works
 
