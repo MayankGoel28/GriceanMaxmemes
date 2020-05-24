@@ -19,9 +19,7 @@ For one final layer of checking, we pass the database through a python script, a
 
 ### Approach 2
 
-We have used a pre trained model, gpt-2 by openai for initializing the network. 
-
-Again, for one final layer of checking, we pass the database through a python script, and then convert the resultant final data in json format for displaying it on the website.
+We have used GPT-2 by openai for initializing the new neural network. We now use our dataset for IIIT confessions to make the GPT-2 model adapt to our dataset. We then follow the same approach as above.
 
 
 ## Website
